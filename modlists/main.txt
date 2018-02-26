@@ -12,9 +12,9 @@
 1180292686 @arma_retex
 820924072 @backpackonchest
 450814997 @cba_a3
-583496184 @cup_terrain_core
-853743366 @cup_terrain_cwa
-583544987 @cup_terrain_maps
+583496184 @cup_terrains_core
+853743366 @cup_terrains_cwa
+583544987 @cup_terrains_maps
 668919514 @ericj_taliban
 633789490 @fallujah
 909320014 @hamf_helicopters

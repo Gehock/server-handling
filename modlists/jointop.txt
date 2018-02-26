@@ -3,7 +3,7 @@
 773125288 @ace_compat_rhsusaf
 708250744 @acex
 450814997 @cba_a3
-583496184 @cup_terrain_core
+583496184 @cup_terrains_core
 333310405 @enhanced_movement
 338988835 @mcc
 735566597 @project_opfor
