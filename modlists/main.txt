@@ -8,7 +8,6 @@
 884966711 @ace_compat_rhsgref
 773125288 @ace_compat_rhsusaf
 713709341 @advanced_rappelling
-615007497 @advanced_slingloading
 1180292686 @arma_retex
 820924072 @backpackonchest
 450814997 @cba_a3
@@ -17,11 +16,12 @@
 583544987 @cup_terrains_maps
 668919514 @ericj_taliban
 633789490 @fallujah
+648172507 @gos_ai_rayak
 909320014 @hamf_helicopters
-1118982882 @hamf_navy
 648775794 @isla_abramia
 714149065 @isla_duala
 708278910 @island_panthera
+421620913 @kunduz_afghanistan
 876991445 @mrb_voicestop
 807038742 @project_infinite
 843425103 @rhsafrf
