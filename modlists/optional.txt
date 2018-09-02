@@ -1,2 +1,14 @@
+1210050323 @9liners_and_notepad
+837729515 @ch_view_distance
+914182380 @earplugs
+825179978 @enhanced_soundscape
 312724602 @hmds_mod
 877530153 @rhs_hmds
+861133494 @jsrs_soundmod
+945476727 @jsrs_afrf
+1180534892 @jsrs_gref
+1180533757 @jsrs_usaf
+929396506 @mrb_air_visibility
+930903722 @mrb_vehicle_visibility
+1311852588 @rested_weapon_movement
+1376867375 @ace_menu_expansion
