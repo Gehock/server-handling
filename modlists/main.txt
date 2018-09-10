@@ -12,14 +12,15 @@
 333310405 @enhanced_movement
 701535490 @gos_dariyah
 909320014 @hamf_helicopters
+714149065 @isla_duala
 807038742 @project_infinite
 735566597 @project_opfor
 1438066655 @project_blufor
 843425103 @rhsafrf
 843593391 @rhsgref
 843577117 @rhsusaf
+1368857262 @ruha
 620019431 @task_force_radio
-1252091296 @tembelan_island
 520618345 @jbad
 909547724 @lythium
 1282716647 @vidda
