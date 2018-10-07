@@ -1,14 +1,10 @@
 @ace 463939057
-@ace_compat_rhsafrf 773131200
-@ace_compat_rhsgref 884966711
 @ace_compat_rhsusaf 773125288
 @achilles 723217262
 @backpackonchest 820924072
 @cba_a3 450814997
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
-@rhsafrf 843425103
-@rhsgref 843593391
 @rhsusaf 843577117
 @task_force_radio 620019431
 @zeusops 754228277
