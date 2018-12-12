@@ -11,7 +11,9 @@
 @cup_terrains_core 583496184
 @cup_terrains_maps 583544987
 @enhanced_movement 333310405
+@fallujah 633789490
 @ifa3_lite 878977835
+@island_panthera 708278910
 @lingor 718649903
 @mbg_buildings 962932583
 @project_blufor 1438066655
