@@ -13,3 +13,4 @@
 @tembelan_island 1252091296
 @thirsk_resigned 1558470634
 @vidda 1282716647
+@pulau 1423583812
