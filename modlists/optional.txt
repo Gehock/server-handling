@@ -10,6 +10,7 @@
 @jsrs_reload 1429098683
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
+@jsrs_niarms 1180543457
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @rested_weapon_movement 1311852588
