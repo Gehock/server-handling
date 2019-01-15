@@ -11,7 +11,6 @@
 @cup_terrains_core 583496184
 @cup_terrains_maps 583544987
 @enhanced_movement 333310405
-@ifa3_lite 878977835
 @isla_duala 714149065
 @lingor 718649903
 @project_blufor 1438066655
