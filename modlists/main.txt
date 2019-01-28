@@ -14,7 +14,7 @@
 @isla_duala 714149065
 @lingor 718649903
 @mbg_buildings 962932583
-@project_blufor 1438066655
+@project_blufor 1638480581
 @project_infinite 807038742
 @project_opfor 735566597
 @pulau 1423583812
