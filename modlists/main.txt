@@ -11,7 +11,7 @@
 @cup_terrains_core 583496184
 @cup_terrains_maps 583544987
 @enhanced_movement 333310405
-@isla_duala 714149065
+@fallujah 633789490
 @lingor 718649903
 @mbg_buildings 962932583
 @project_blufor 1638480581
@@ -25,5 +25,6 @@
 @rosche 1527410521
 @task_force_radio 620019431
 @thirsk 501589008
+@tembelan_island 1252091296
 @vcom 721359761
 @zeusops 754228277
