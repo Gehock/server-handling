@@ -4,6 +4,7 @@
 @alive 620260972
 @cba_a3 450814997
 @clafghan 761349672
+@adv_rappel
 @cup_terrains_core 583496184
 @cup_terrains_cwa 853743366
 @cup_terrains_maps 583544987
