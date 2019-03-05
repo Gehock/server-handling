@@ -19,7 +19,6 @@
 @project_blufor 1638480581
 @project_infinite 807038742
 @project_opfor 735566597
-@pulau 1423583812
 @reddntank 1128145626
 @rhsafrf 843425103
 @rhsgref 843593391
