@@ -2,7 +2,7 @@
 @ace_compat_rhsafrf 773131200
 @ace_compat_rhsusaf 773125288
 @achilles 723217262
-@adv_rappel
+@adv_rappel 713709341
 @alive 620260972
 @cba_a3 450814997
 @clafghan 761349672
@@ -14,3 +14,4 @@
 @rhsafrf 843425103
 @rhsusaf 843577117
 @spyder_addons 579263829
+@stui 498740884
