@@ -83,7 +83,7 @@
 @task_force_radio 620019431
 @tembelan_island 1252091296
 @tfar_animations 1480333388
-@tfarstable 894678801
+@tfarbeta 894678801
 @thirsk_resigned 1558470634
 @unsung 943001311
 @vcom 721359761
