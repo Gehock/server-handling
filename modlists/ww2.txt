@@ -18,8 +18,8 @@
 @rhsafrf 843425103
 @rhsgref 843593391
 @rhsusaf 843577117
-@task_force_radio 620019431
 @tembelan_island 1252091296
+@tfarbeta 894678801
 @thirsk_resigned 1558470634
 @vcom 721359761
 @zeusops_ww2 1314674460
