@@ -3,7 +3,7 @@
 @cba_a3 450814997
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
-@jsrs_reloading 1429098683
+@jsrs_reload 1429098683
 @jsrs_soundmod 861133494
 @project_infinite_inspect 812441729
 @ryanzombies 501966277
