@@ -1,6 +1,8 @@
 @9liners_and_notepad 1210050323
 @ace_menu_expansion 1376867375
 @athena 1181881736
+@automatic_view_distance 1544955993
+@auto_weapon_lower 1612623122
 @ch_view_distance 837729515
 @earplugs 914182380
 @enhanced_soundscape 825179978
