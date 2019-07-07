@@ -50,6 +50,7 @@
 @jsrs_reload 1429098683
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
+@kujari 1726494027
 @legion_zd 1692301442
 @lingor 718649903
 @lythium 909547724
