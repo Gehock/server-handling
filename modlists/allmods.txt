@@ -59,6 +59,7 @@
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @mrb_voicestop 876991445
+@niarms 1208517358
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
 @optre 769440155
