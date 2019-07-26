@@ -29,6 +29,7 @@
 @cup_vehicles 541888371
 @cup_weapons 497660133
 @earplugs 914182380
+@em_buildings 671539540
 @enhanced_movement 333310405
 @enhanced_soundscape 825179978
 @ericj_taliban 668919514
@@ -59,6 +60,7 @@
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @mrb_voicestop 876991445
+@new_york_city 696414736
 @niarms 1208517358
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
