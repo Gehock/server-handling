@@ -16,7 +16,6 @@
 @asr_ai3 642457233
 @athena 1181881736
 @backpackonchest 820924072
-@baf_weapons 893339590
 @cartridge_cases 1198749494
 @cba_a3 450814997
 @chernarus_redux 1128256978
