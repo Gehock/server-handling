@@ -18,7 +18,7 @@
 @backpackonchest 820924072
 @cartridge_cases 1198749494
 @cba_a3 450814997
-#@chernarus_redux 1128256978
+@chernarus_redux 1128256978
 @ch_view_distance 837729515
 @clafghan 761349672
 @cup_terrains_core 583496184
