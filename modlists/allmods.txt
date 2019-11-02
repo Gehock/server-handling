@@ -31,6 +31,7 @@
 @enhanced_movement 333310405
 @enhanced_soundscape 825179978
 @ericj_taliban 668919514
+@extended_jamming 1379304937
 @fallujah 633789490
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
@@ -96,6 +97,7 @@
 @vet_unflipping 1703187116
 #@vidda 1282716647
 @walkable_moving_objects 925018569
+@weapon_holster 1562915006
 @werthles_hc 510031102
 @zeusops 754228277
 @zeusops_jointop 1312400601
