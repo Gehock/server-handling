@@ -20,7 +20,7 @@
 @cba_a3 450814997
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
-@clafghan 761349672
+#@clafghan 761349672
 @cup_terrains_core 583496184
 #@cup_terrains_cwa 853743366
 @cup_terrains_maps 583544987
@@ -62,9 +62,9 @@
 @mrb_voicestop 876991445
 @new_york_city 696414736
 @niarms 1208517358
-@operation_trebuchet 769440155
-@operation_trebuchet_ace_compat 1267657613
-@optre 769440155
+#@operation_trebuchet 769440155
+#@operation_trebuchet_ace_compat 1267657613
+#@optre 769440155
 @project_blufor 1638480581
 @project_infinite 807038742
 @project_infinite_inspect 812441729
