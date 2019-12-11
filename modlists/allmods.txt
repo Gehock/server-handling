@@ -37,10 +37,12 @@
 @goko_mag_drop 1373715042
 @gos_ai_rayak 648172507
 @gos_dariyah 701535490
+@grad_trenches 1224892496
 @hamf_helicopters 909320014
 @hmds_mod 312724602
 @ifa3_aio_lite 660460283
 @ifa3_lite 878977835
+@interiors_for_cup 1883956552
 @isla_abramia 648775794
 @isla_duala 714149065
 @island_panthera 708278910
@@ -70,6 +72,7 @@
 @project_infinite_inspect 812441729
 @project_opfor 735566597
 @prone_launcher 1841047025
+@prone_launcher_res 1883363219
 @pulau 1423583812
 @ravage 1376636636
 @reddntank 1128145626
