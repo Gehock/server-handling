@@ -1,8 +1,1 @@
-@cba_a3 450814997
-@enhanced_movement 333310405
-@rhsafrf 843425103
-@rhsgref 843593391
-@rhsusaf 843577117
-@tfarbeta 894678801
-@vet_unflipping 1703187116
-@zeusops 754228277
+archive/2019-12-17-antistasi.txt
