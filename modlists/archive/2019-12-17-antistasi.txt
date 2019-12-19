@@ -1,4 +1,7 @@
 @ace 463939057
+@ace_compat_rhsafrf 773131200
+@ace_compat_rhsgref 884966711
+@ace_compat_rhsusaf 773125288
 @cba_a3 450814997
 @enhanced_movement 333310405
 @rhsafrf 843425103
@@ -7,4 +10,3 @@
 @stui 498740884
 @tfarbeta 894678801
 @vet_unflipping 1703187116
-@zeusops 754228277
