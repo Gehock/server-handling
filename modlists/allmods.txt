@@ -7,6 +7,7 @@
 @ace_compat_rhsusaf 773125288
 @ace_cpr 1104460924
 @ace_menu_expansion 1376867375
+@ace-morphine-patch 1960207062
 @achilles 723217262
 @adv_rappel 713709341
 @alive 620260972
